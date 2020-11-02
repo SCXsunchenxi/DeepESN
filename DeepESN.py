@@ -1,23 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Sep 25 15:01:04 2020
-
-@author: Claudio Gallicchio
-gallicch@di.unipi.it
-Department of Computer Science
-University of Pisa
-Largo B. Pontecorvo, 3 - 56127 Pisa (Italy)
-
-If you use this code in your work, please cite the following paper,
-in which the concept of Deep Reservoir Computing has been introduced:
-
-Gallicchio,  C.,  Micheli,  A.,  Pedrelli,  L.: Deep  reservoir  computing:  
-A  critical  experimental  analysis.    Neurocomputing268,  87–99  (2017).    
-https://doi.org/10.1016/j.neucom.2016.12.08924.  
-"""
-
-
 import tensorflow as tf
 from tensorflow import keras
 import numpy as np
