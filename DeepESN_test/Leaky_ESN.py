@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Mar 24 11:26:51 2020
-
-@author: Laurens.EiroaSattler
-"""
 import numpy as np
 import matplotlib.pyplot as plt
 import sklearn.linear_model as linfit
