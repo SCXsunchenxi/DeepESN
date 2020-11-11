@@ -1,3 +1,6 @@
 # DeepESN
 
-Deep Echo State Network. Tensorflow
+Deep Echo State Network.  
+Python. 
+Tensorflow. Keras. 
+
